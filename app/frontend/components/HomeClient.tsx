@@ -131,7 +131,7 @@ export default function HomeClient({ initialApiUrl }: HomeClientProps) {
 
                     <div className="flex flex-wrap items-center justify-center gap-4 pt-4">
                         <a
-                            href="https://github.com/HimanM/DevOps-Project-8"
+                            href="https://github.com/HimanM/iac-config-mgmt-enterprise-demo"
                             target="_blank"
                             className="flex items-center gap-2 px-8 py-4 rounded-full bg-white text-black font-semibold hover:bg-gray-200 transition-colors"
                         >
