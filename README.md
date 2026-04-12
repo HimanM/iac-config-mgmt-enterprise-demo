@@ -2,10 +2,10 @@
 
 > **Enterprise-grade Infrastructure as Code and Configuration Management with Terraform, Ansible, and AWS**
 
-[![Terraform](https://github.com/HimanM/DevOps-Project-8/actions/workflows/terraform.yaml/badge.svg)](https://github.com/HimanM/DevOps-Project-8/actions/workflows/terraform.yaml)
-[![Build and Push](https://github.com/HimanM/DevOps-Project-8/actions/workflows/build-and-push.yaml/badge.svg)](https://github.com/HimanM/DevOps-Project-8/actions/workflows/build-and-push.yaml)
-[![Deploy](https://github.com/HimanM/DevOps-Project-8/actions/workflows/deploy.yaml/badge.svg)](https://github.com/HimanM/DevOps-Project-8/actions/workflows/deploy.yaml)
-[![Update Documentation](https://github.com/HimanM/DevOps-Project-8/actions/workflows/update-docs.yaml/badge.svg)](https://github.com/HimanM/DevOps-Project-8/actions/workflows/update-docs.yaml)
+[![Terraform](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/terraform.yaml/badge.svg)](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/terraform.yaml)
+[![Build and Push](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/build-and-push.yaml/badge.svg)](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/build-and-push.yaml)
+[![Deploy](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/deploy.yaml/badge.svg)](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/deploy.yaml)
+[![Update Documentation](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/update-docs.yaml/badge.svg)](https://github.com/HimanM/iac-config-mgmt-enterprise-demo/actions/workflows/update-docs.yaml)
 
 <!-- DYNAMIC_LINKS_START -->
 
@@ -280,8 +280,8 @@ Before starting this project, ensure you have the following:
 Start by cloning this repository to your local machine or working in GitHub Codespaces:
 
 ```bash
-git clone https://github.com/HimanM/DevOps-Project-8.git
-cd DevOps-Project-8
+git clone https://github.com/HimanM/iac-config-mgmt-enterprise-demo.git
+cd iac-config-mgmt-enterprise-demo
 ```
 
 ### Explore the Project Structure
@@ -289,7 +289,7 @@ cd DevOps-Project-8
 Familiarize yourself with the repository layout:
 
 ```
-DevOps-Project-8/
+iac-config-mgmt-enterprise-demo/
 ├── terraform/          # Infrastructure as Code definitions
 │   ├── main.tf        # Main Terraform configuration
 │   ├── variables.tf   # Variable definitions
@@ -715,7 +715,7 @@ You are free to:
 **HimanM**
 
 - GitHub: [@HimanM](https://github.com/HimanM)
-- Repository: [DevOps-Project-8](https://github.com/HimanM/DevOps-Project-8)
+- Repository: [iac-config-mgmt-enterprise-demo](https://github.com/HimanM/iac-config-mgmt-enterprise-demo)
 
 For questions, feedback, or collaboration opportunities, feel free to open an issue or reach out through GitHub.
 
