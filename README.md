@@ -1,3 +1,9 @@
+<!-- BANNER_START -->
+<p align="center">
+  <img src="./.banner/banner.svg" width="100%" alt="Project Banner">
+</p>
+<!-- BANNER_END -->
+
 # DevOps Project 8: Enterprise Infrastructure Automation
 
 > **Enterprise-grade Infrastructure as Code and Configuration Management with Terraform, Ansible, and AWS**
